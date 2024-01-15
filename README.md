@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rafidefrana](https://github.com/rafidefrana)
 
-- About Me **I'm still learning, processing and learning again.**
+- 👋 About Me **I'm still learning, processing and learning again.**
 
 - 📫 How to reach me **rafidefrana08@gmail.com**
 
