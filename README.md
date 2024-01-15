@@ -17,7 +17,7 @@
   
 - 🚀 **This Github is a witness to my learning from May 2023 onwards**.
   
-- ⏳ **spend 1-3 hours per day learning programming**.
+- ⏳  **spend 1-3 hours per day learning programming**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
