@@ -19,6 +19,8 @@
   
 - ⏳    **spend 1-3 hours per day learning programming**.
 
+- 🏫 **github is a witness to my learning from the beginning to become a professional**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/fiii_def_raf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fiii_def_raf" height="30" width="40" /></a>
